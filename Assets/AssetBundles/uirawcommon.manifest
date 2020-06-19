@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 2162707751
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 87f082f629ea55a999532ef0aa84eb6c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/RawResources/common/LS_icon__01_90.png
+- Assets/RawResources/common/LS_icon__02_90.png
+- Assets/RawResources/common/power_bg_jiaozhi.png
+- Assets/RawResources/common/btn_blue.png
+- Assets/RawResources/common/loading.png
+- Assets/RawResources/common/btn_red_mini.png
+- Assets/RawResources/common/YX_icon_bg.png
+- Assets/RawResources/common/fp_bg_head.png
+- Assets/RawResources/common/btn_green_mini2.png
+- Assets/RawResources/common/icon_jinbi.png
+- Assets/RawResources/common/gk_bg_ap01.png
+- Assets/RawResources/common/LS_icon__03_90.png
+- Assets/RawResources/common/fp_bg_headwu.png
+- Assets/RawResources/common/ty_btn_ok.png
+- Assets/RawResources/common/fp_bg_headwu02.png
+- Assets/RawResources/common/btn_blue_mini.png
+- Assets/RawResources/common/gk_bg_title.png
+- Assets/RawResources/common/JS_close.png
+- Assets/RawResources/common/btn_green.png
+- Assets/RawResources/common/gk_btn_freeicon.png
+- Assets/RawResources/common/tips_bg.png
+- Assets/RawResources/common/btn_close.png
+- Assets/RawResources/common/tips_bg_80.png
+- Assets/RawResources/common/btn_blue_mini2.png
+- Assets/RawResources/common/power_bg_xian.png
+- Assets/RawResources/common/qd_icon_fenxiang.png
+- Assets/RawResources/common/btn_red.png
+- Assets/RawResources/common/btn_green_mini.png
+- Assets/RawResources/common/cgjl_txtfangqishiyong.png
+- Assets/RawResources/common/fp_btn_ad.png
+- Assets/RawResources/common/gk_icon_tilikong.png
+- Assets/RawResources/common/fp_icon_receive.png
+- Assets/RawResources/common/qd_icon_dui.png
+- Assets/RawResources/common/icon_aixin.png
+Dependencies: []

@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3688538865
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 66bd4765b6485503de20bce9c8274b94
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/RawResources/buyPanel/qd_icon_fenxiang.png
+Dependencies: []

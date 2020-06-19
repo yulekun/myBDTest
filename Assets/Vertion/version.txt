@@ -1,0 +1,1 @@
+{"version":"1.0.0","assetBds":[{"BDName":"panel","hashCode":18610,"subResName":null,"dependences":["rawres1"]},{"BDName":"panel22","hashCode":18628,"subResName":null,"dependences":["rawres1","uirawcommon"]},{"BDName":"rawres1","hashCode":19032,"subResName":null,"dependences":[]},{"BDName":"uirawcommon","hashCode":19036,"subResName":null,"dependences":[]}]}

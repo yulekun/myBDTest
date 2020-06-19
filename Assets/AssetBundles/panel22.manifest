@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 4290907152
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1219791b0c74a0b74a744d60f0220596
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: df1011b35315b9b1d560a8e40087fff0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Panel22.prefab
+Dependencies:
+- G:/MyProTests/Unity/myBd/myBdTest/Assets/AssetBundles/rawres1
+- G:/MyProTests/Unity/myBd/myBdTest/Assets/AssetBundles/uirawcommon
